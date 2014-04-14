@@ -48,6 +48,7 @@
 			<?php do_action( 'expound_navigation_after' ); ?>
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
+	
 	<?php do_action( 'expound_header_after' ); ?>
-
-	<div id="main" class="site-main">
+	
+	<div id="main" class="site-main">	
